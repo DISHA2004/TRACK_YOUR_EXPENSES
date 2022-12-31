@@ -5,6 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### project interface 
+![EXPENSE](https://user-images.githubusercontent.com/78337260/210138847-0c3ccd6f-25ce-4d09-be17-69fd7ff3b960.jpg)
+![EXPENSE2](https://user-images.githubusercontent.com/78337260/210138851-7082b182-0d26-4806-bf3a-3529698f72ca.jpg)
+
+###about project
+ > Its basically for tracking one's expenses and giving the final calculations of the spent amount and left balance
+ > It is very important as it gives instant idea about the money management 
+ > Expense tracker can be used for tracking and noticing the expenses so that they can be noticed and according to that the money can be managed!
 
 ### `npm start`
 
